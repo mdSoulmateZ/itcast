@@ -3,6 +3,11 @@
     padding: 0;
 }
 p{
+<<<<<<< HEAD
     font-size: 10px;
     color: blue;
+=======
+    font-size: 40px;
+    color: red;
+>>>>>>> lemon
 }
